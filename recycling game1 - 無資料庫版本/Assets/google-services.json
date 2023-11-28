@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192524007976",
+    "project_id": "recycling-game1",
+    "storage_bucket": "recycling-game1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192524007976:android:34945253122257c9ba931d",
+        "android_client_info": {
+          "package_name": "Recycling.game1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c1NgivjwbunNqPtF0dw9aecT9aXVFpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
